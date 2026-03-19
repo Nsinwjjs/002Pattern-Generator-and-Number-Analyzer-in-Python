@@ -1,0 +1,1 @@
+# 002Pattern-Generator-and-Number-Analyzer-in-Python
